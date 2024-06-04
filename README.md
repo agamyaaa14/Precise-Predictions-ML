@@ -15,4 +15,4 @@ The code in this project is written in Python, and the primary libraries used in
 - Scikit-learn
 
 ## Datasets
-The datasets used for flower classification and cancer tumor diagnosis are provided as external links within the Python notebooks. 
+The datasets used for flower classification and cancer tumor diagnosis are provided as external links within the Python notebook. 
